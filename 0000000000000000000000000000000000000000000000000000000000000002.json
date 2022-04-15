@@ -1,0 +1,44 @@
+{
+  "description": "The Project is designed to use for electricity generation rice husk that would otherwise be left to decay. It involves the construction and operation of a 2 MWe new rice husk power generation plant adjacent to Angkor Kasekam Roongroeung Rice Mill (Angkor Rice Mill) in Kandal province in Cambodia. The project owner, Angkor Bio Cogen (ABC), will sell the electricity to the rice mill. The rice mill is currently using diesel oil to generate electricity for the rice mill operation",
+  "external_url": "https://app.carb0n.fi/cNFT",
+  "image": "https://0xen0n.github.io/assets/Agriculture.png",
+  "name": "Angkor Bio Cogen Rice Husk Power Project",
+  "background_color": "e9e9e9",
+  "attributes": [
+    {
+      "trait_type": "Accreditation", 
+      "value": "CDM"
+    },
+    {
+      "trait_type": "Registery Id", 
+      "value": "363"
+    }, 
+    {
+      "trait_type": "Project type", 
+      "value": "Agriculture"
+    },
+    {
+      "trait_type": "Country of origin", 
+      "value": "Phum Ang Snoul"
+    },
+    {
+      "trait_type": "City of origin", 
+      "value": "Cambodia"
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "Vintage", 
+      "value": 1451664001
+    }, 
+    {
+      "trait_type": "Number of unit minted", 
+      "display_type": "number", 
+      "value": 100
+    },
+    {
+      "trait_type": "Original Price", 
+      "display_type": "number", 
+      "value": 2.85
+    }
+  ] 
+}
